@@ -37,8 +37,6 @@ RideShare is a ride-sharing app that connects people heading to the same destina
 - [Bcrypt.js](https://www.npmjs.com/package/bcryptjs) - For data encryption.
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero-dependency module to load environment variables.
 - [CORS](https://www.npmjs.com/package/cors) - Middleware for enabling CORS.
-- [Multer](https://www.npmjs.com/package/multer) - Middleware for uploading files.
-- [Cloudinary](https://cloudinary.com) - For uploading images.
 
 #### Database
 - [MongoDB](https://www.mongodb.com/) - Cloud service to store and manage MongoDB collections.
